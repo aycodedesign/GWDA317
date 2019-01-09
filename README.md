@@ -11,9 +11,9 @@
 * an estimate how long this will take (breakdown into milestones; discovery, design, prototype, production)
 * list the technologies I will be using (HTML, modern CSS, CSS-grid for layout, React, -Mongo express (research this), React, Node (MERN Stack?) etc)
 * use Trello to track progress; here are your cards; 
-|User Stories | Icebox | Completed Tasks|
-|-------------|--------|----------------|
-|parts of the site to be created        |great idea, but not part of the minimum viable product | Finished stuff |
+| User Stories                    | Icebox                                                | Complete       |   |   |
+|---------------------------------|-------------------------------------------------------|----------------|---|---|
+| parts of the site to be created | great idea,but not part of the minimum viable product | Finished stuff |   |   |
 
 
 * site wireframe
