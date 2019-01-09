@@ -20,8 +20,8 @@
 * mockup
 * prototype
 
-
--CHEAT SHEETS  
+===
+## CHEAT SHEETS  
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 [User Stories 1](https://www.mountaingoatsoftware.com/agile/user-stories)  
 [User Stories 2](https://tech.gsa.gov/guides/user_story_example/)  
