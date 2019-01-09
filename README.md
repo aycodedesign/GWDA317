@@ -1,5 +1,4 @@
-# GWDA317 - INT COMM PLANNING & RESEARCH
-### [Trello page](https://trello.com/invite/b/30zmIDMH/1be773e170613e2247a25be4c96f4961/gwda317)
+# [GWDA317 - INT COMM PLANNING & RESEARCH](https://trello.com/invite/b/30zmIDMH/1be773e170613e2247a25be4c96f4961/gwda317)
 
 ## SCOPE OF WORK
 * Who is the client? Give a brief description of the company and what they do
