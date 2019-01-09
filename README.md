@@ -5,7 +5,7 @@
 * What do they want to achieve with my web app
 * They currently have branding and want to upgrade. They need...
   * a new logo
-  * 3 color palettes to choose from
+  * styleguide (3 color palettes to choose from, fonts, buttons, etc)
   * based on what you know about their company, discover the site demographic
   * sitemap for all pages
 * an estimate how long this will take (breakdown into milestones; discovery, design, prototype, production)
