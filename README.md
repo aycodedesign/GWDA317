@@ -1,5 +1,5 @@
 # GWDA317 - INTERACTIVE COMMUNICATION PLANNING & RESEARCH
-=========
+
 ## SCOPE OF WORK
 * Who is the client? Give a brief description of the company and what they do
 * What do they want to achieve with my web app
@@ -20,7 +20,7 @@
 * mockup
 * prototype
 
-===
+
 ## CHEAT SHEETS  
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 [User Stories 1](https://www.mountaingoatsoftware.com/agile/user-stories)  
