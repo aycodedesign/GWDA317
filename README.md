@@ -22,10 +22,10 @@
 
 
 -CHEAT SHEETS
-[Markdown] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[User Stories 1] (https://www.mountaingoatsoftware.com/agile/user-stories)
-[User Stories 2] (https://tech.gsa.gov/guides/user_story_example/)
-[User Stories 3] (https://codingsans.com/blog/user-stories-with-templates)
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[User Stories 1](https://www.mountaingoatsoftware.com/agile/user-stories)
+[User Stories 2](https://tech.gsa.gov/guides/user_story_example/)
+[User Stories 3](https://codingsans.com/blog/user-stories-with-templates)
 
 
        
