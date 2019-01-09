@@ -1,4 +1,4 @@
-# GWDA317 - INTERACTIVE COMMUNICATION PLANNING & RESEARCH
+# GWDA317 - INT COMM PLANNING & RESEARCH
 
 ## SCOPE OF WORK
 * Who is the client? Give a brief description of the company and what they do
