@@ -10,7 +10,7 @@
 * online appointment system
 * social media presence
 * modern, mobile-responsive facelift to their current website
-* a website that more closely aligns to their buidling aesthetic  
+* a website that more closely aligns to their building aesthetic  
 * They currently have branding and want to upgrade. They need...
 - [ ] a new logo
 - [ ] sitemap for all pages  
@@ -36,4 +36,5 @@
 ## EXAMPLES
 [Blade Barbershop](http://thebladebarbershop.com/)  
 [Fresh KUTZ](https://www.freshkutz.com/)  
-[CGVLAD](https://vlad-cli.netlify.com/)  
+[CGVLAD](https://vlad-cli.netlify.com/)
+[Free Gantt Chart](https://www.teamgantt.com/free-gantt-chart-excel-template)
