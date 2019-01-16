@@ -1,4 +1,5 @@
 # [GWDA317 - INT COMM PLANNING & RESEARCH](https://trello.com/invite/b/30zmIDMH/1be773e170613e2247a25be4c96f4961/gwda317)
+# <a href="https://trello.com/invite/b/30zmIDMH/1be773e170613e2247a25be4c96f4961/gwda317" target="_blank">GWDA317 - INT COMM PLANNING & RESEARCH</a>
 
 ## SCOPE OF WORK
 - [x] Who is the client?
