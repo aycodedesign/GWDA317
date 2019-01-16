@@ -5,6 +5,7 @@
 * Blade Barbershop, a small chain in Los Angeles with 4 branches (North Hollywood, Chatswoth, Lake Balboa, Canoga Park). They specialize in men’s hairstyles of all textures. They also sell hair care products and limited apparel.
 - [x] What is their demographic?
 * Males of all ages that need haircuts, but targeted between the ages of 16-50
+- [ ] styleguide (3 color palettes to choose from, fonts, buttons, etc)
 - [ ] What do they want to achieve with my web app
 * online appointment system
 * social media presence
@@ -12,7 +13,6 @@
 * a website that more closely aligns to their buidling aesthetic  
 * They currently have branding and want to upgrade. They need...
 - [ ] a new logo
-- [ ] styleguide (3 color palettes to choose from, fonts, buttons, etc)
 - [ ] sitemap for all pages  
 - [ ] an estimate how long this will take (breakdown into milestones; discovery, design, prototype, production)
 - [ ] list the technologies I will be using (HTML, modern CSS, CSS-grid for layout, React, -Mongo express (research this), React, Node (MERN Stack?) etc)
