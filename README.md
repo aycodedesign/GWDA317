@@ -30,6 +30,6 @@
 [Netlify CMS (allows blogposts and such without using Contentful](https://www.netlifycms.org/)
 
 ## EXAMPLES
-[Blade Barbershop](http://thebladebarbershop.com/)
-[Fresh KUTZ](https://www.freshkutz.com/)
-[CGVLAD](https://vlad-cli.netlify.com/)
+[Blade Barbershop](http://thebladebarbershop.com/)  
+[Fresh KUTZ](https://www.freshkutz.com/)  
+[CGVLAD](https://vlad-cli.netlify.com/)  
