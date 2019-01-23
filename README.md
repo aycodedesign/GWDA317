@@ -37,4 +37,8 @@
 [Blade Barbershop](http://thebladebarbershop.com/)  
 [Fresh KUTZ](https://www.freshkutz.com/)  
 [CGVLAD](https://vlad-cli.netlify.com/)
-[Free Gantt Chart](https://www.teamgantt.com/free-gantt-chart-excel-template)
+~~[Free Gantt Chart](https://www.teamgantt.com/free-gantt-chart-excel-template)~~
+[V's Barbershop](https://vbarbershop.com/sitemap/)
+[Barbershop Beard](https://barbershopbeard.com/html-sitemap/) 
+[Barbershop Mayfair](http://www.thebarbershop-mayfair.com/sm) 
+[Floyd's](https://www.floydsbarbershop.com/sitemap/)
