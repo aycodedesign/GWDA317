@@ -13,7 +13,7 @@
 * a website that more closely aligns to their building aesthetic  
 * They currently have branding and want to upgrade. They need...
 - [ ] a new logo
-- [ ] sitemap for all pages  
+- [x] sitemap for all pages  
 - [ ] an estimate how long this will take (breakdown into milestones; discovery, design, prototype, production)
 - [ ] list the technologies I will be using (HTML, modern CSS, CSS-grid for layout, React, -Mongo express (research this), React, Node (MERN Stack?) etc)
 - [ ] site wireframe
