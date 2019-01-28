@@ -14,10 +14,10 @@
 * They currently have branding and want to upgrade. They need...
 - [ ] a new logo
 - [x] sitemap for all pages  
-- [ ] an estimate how long this will take (breakdown into milestones; discovery, design, prototype, production)
-- [ ] list the technologies I will be using (HTML, modern CSS, CSS-grid for layout, React, -Mongo express (research this), React, Node (MERN Stack?) etc)
-- [ ] site wireframe
+- [x] an estimate how long this will take (breakdown into milestones; discovery, design, prototype, production)
+- [x] site wireframe
 - [ ] mockup
+- [ ] list the technologies I will be using (HTML, modern CSS, CSS-grid for layout, React, -Mongo express (research this), React, Node (MERN Stack?) etc)
 - [ ] prototype
 * [Trello cards](https://trello.com/invite/b/30zmIDMH/1be773e170613e2247a25be4c96f4961/gwda317):   
 **User Stories** - parts of the site to be created  
