@@ -30,7 +30,7 @@
 [User Stories 1](https://www.mountaingoatsoftware.com/agile/user-stories)  
 [User Stories 2](https://tech.gsa.gov/guides/user_story_example/)  
 [User Stories 3](https://codingsans.com/blog/user-stories-with-templates)  
-[Bulma CSS flexbox that works with Netlify](https://bulma.io/)
+[Bulma CSS flexbox that works with Netlify](https://bulma.io/)  
 [Netlify CMS (allows blogposts and such without using Contentful)](https://www.netlifycms.org/)
 
 ## EXAMPLES
