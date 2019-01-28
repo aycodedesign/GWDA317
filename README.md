@@ -6,7 +6,7 @@
 - [x] What is their demographic?
 * Males of all ages that need haircuts, but targeted between the ages of 16-50
 - [x] styleguide (3 color palettes to choose from, fonts, buttons, etc)
-- [ ] What do they want to achieve with my web app
+- [x] What do they want to achieve with my web app
 * online appointment system
 * social media presence
 * modern, mobile-responsive facelift to their current website
