@@ -32,6 +32,7 @@
 [User Stories 3](https://codingsans.com/blog/user-stories-with-templates)  
 [Bulma CSS flexbox that works with Netlify](https://bulma.io/)  
 [Netlify CMS (allows blogposts and such without using Contentful)](https://www.netlifycms.org/)
+[Flowcharts](https://www.smartdraw.com/flowchart/flowchart-symbols.htm)
 
 ## EXAMPLES
 [Blade Barbershop](http://thebladebarbershop.com/)  
