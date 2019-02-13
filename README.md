@@ -42,4 +42,5 @@
 [V's Barbershop](https://vbarbershop.com/sitemap/)  
 ~~[Barbershop Beard](https://barbershopbeard.com/html-sitemap/)~~   
 [Barbershop Mayfair](http://www.thebarbershop-mayfair.com/sm)  
-[Floyd's Barbershop](https://www.floydsbarbershop.com/sitemap/)
+[Floyd's Barbershop](https://www.floydsbarbershop.com/sitemap/)  
+[Boardroom](https://boardroomsalon.com/)
